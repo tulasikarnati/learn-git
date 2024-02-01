@@ -18,6 +18,6 @@ developement completed
 * still developing
 * completed
 
-### conflict
-* this is from developer 1, I want to keep this line of code
+### developer 2
+* i am developer 2 added some features
 * this is again from dev -1
