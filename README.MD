@@ -20,3 +20,4 @@ developement completed
 
 ### developer 2
 * i am developer 2 added some features
+* i am developer 2 just now it is completed
