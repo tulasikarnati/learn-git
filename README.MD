@@ -17,3 +17,6 @@ developement completed
 * more code
 * still developing
 * completed
+
+### conflict
+* this is from developer 1, I want to keep this line of code
