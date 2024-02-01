@@ -9,3 +9,4 @@ developement completed
 
 ### rebase
 -it is another merge strategy
+-second line of code
