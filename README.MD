@@ -6,3 +6,6 @@ feature-1
 this is done by developers
 developer is doing some development
 developement completed
+
+### rebase
+-it is another merge strategy
