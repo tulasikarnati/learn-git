@@ -11,3 +11,9 @@ developement completed
 -it is another merge strategy
 -second line of code
 -developement completed
+
+### squash
+* developer started developing
+* more code
+* still developing
+* completed
